@@ -1,4 +1,0 @@
-projecteuler
-============
-
-ProjectEuler
